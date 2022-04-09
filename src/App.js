@@ -26,8 +26,6 @@ function App() {
     document.getElementById('tittleNumber').style.color = "green";
   } if (counter < 0) {
     document.getElementById('tittleNumber').style.color = "red";
-  } if (0 === counter) {
-    document.getElementById('tittleNumber').style.color = "black";
   }
  
 
